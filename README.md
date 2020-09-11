@@ -22,13 +22,13 @@ Synopsis: Lesson 2 expands on the basic concepts of for-loops and variable types
 Lesson 3
 Topics: writing ascii files, user-defined functions
 Required Files: Python_ES_L3.ipynb
-Lecture:
+Lecture: https://www.youtube.com/watch?v=NJmJlxPaZ6g&feature=youtu.be
 Synopsis: Lesson 3 explains how data can be written into an ascii file for storage outside of the Python Environment (e.g. Jupyter Notebooks). Lesson 3 also introduces students to the concept of user-defined functions. These functions are written by users and can be called upon in multiple portions of the code. They are advantageous in that they obviate the need to write the same sequence of coding lines multiple times throughout a script.
 
 Lesson 4
 Topics: reading ascii files into dictionaries
 Required Files: Python_ES_L4.ipynb
-Lecture:
+Lecture: https://www.youtube.com/watch?v=X1hgekvoJLM&feature=youtu.be
 Synopsis: Lesson 4 goes over techniques for reading ascii files into the Python Environment (as dictionaries). The lesson gives advice on creating user-defined functions that can be used repeatedly, hence obviating the need for repeating code.
 
 Lesson 5
