@@ -20,10 +20,10 @@ Lecture:
 Synopsis: Lesson 2 expands on the basic concepts of for-loops and variable types. Students learn how to create more complex for-loops and how to add conditional statements to for-loops (as well as the reasons for doing so). Students are also familiarized with dictionaries and how they can be used to store data efficiently.
 
 Lesson 3:
-Topics:
+Topics: writing ascii files, user-defined functions
 Required Files: Python_ES_L3.ipynb
 Lecture:
-Synopsis:
+Synopsis: Lesson 3 explains how data can be written into an ascii file for storage outside of the Python Environment (e.g. Jupyter Notebooks). Lesson 3 also introduces students to the concept of user-defined functions. These functions are written by users and can be called upon in multiple portions of the code. They are advantageous in that they obviate the need to write the same sequence of coding lines multiple times throughout a script.
 
 Lesson 4:
 Topics:
