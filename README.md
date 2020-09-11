@@ -33,7 +33,7 @@ Synopsis: Lesson 4 goes over techniques for reading ascii files into the Python 
 
 Lesson 5
 Topics: Reading multiple ascii files using a for-loop, Data Quality Assurance/Quality Control (QA/QC), basic plotting
-Required Files: Python_ES_L5.ipynb
+Required Files: Python_ES_L5.ipynb, WU_2017.zip (Recommended: unzip prior to commencing Lesson 5)
 Lecture:
 Synopsis: Now that students understand how to read an ascii file, as well as how to write a for-loop, this lesson comblines those skills. Students will write a for-loop that will read 366 ascii files into a dictionary (one file at a time). Students will then examine techniques for eliminating erroneous data points; they will also be introduced to plotting, which can be used as a visual aid for locating problematic data points.
 
