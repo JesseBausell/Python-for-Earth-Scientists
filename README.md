@@ -19,25 +19,25 @@ Required Files: Python_ES_L2.ipynb
 Lecture:
 Synopsis: Lesson 2 expands on the basic concepts of for-loops and variable types. Students learn how to create more complex for-loops and how to add conditional statements to for-loops (as well as the reasons for doing so). Students are also familiarized with dictionaries and how they can be used to store data efficiently.
 
-Lesson 3:
+Lesson 3
 Topics: writing ascii files, user-defined functions
 Required Files: Python_ES_L3.ipynb
 Lecture:
 Synopsis: Lesson 3 explains how data can be written into an ascii file for storage outside of the Python Environment (e.g. Jupyter Notebooks). Lesson 3 also introduces students to the concept of user-defined functions. These functions are written by users and can be called upon in multiple portions of the code. They are advantageous in that they obviate the need to write the same sequence of coding lines multiple times throughout a script.
 
-Lesson 4:
+Lesson 4
 Topics: reading ascii files into dictionaries
 Required Files: Python_ES_L4.ipynb
 Lecture:
 Synopsis: Lesson 4 goes over techniques for reading ascii files into the Python Environment (as dictionaries). The lesson gives advice on creating user-defined functions that can be used repeatedly, hence obviating the need for repeating code.
 
-Lesson 5:
-Topics:
+Lesson 5
+Topics: Reading multiple ascii files using a for-loop, Data Quality Assurance/Quality Control (QA/QC), basic plotting
 Required Files: Python_ES_L5.ipynb
 Lecture:
-Synopsis:
+Synopsis: Now that students understand how to read an ascii file, as well as how to write a for-loop, this lesson comblines those skills. Students will write a for-loop that will read 366 ascii files into a dictionary (one file at a time). Students will then examine techniques for eliminating erroneous data points; they will also be introduced to plotting, which can be used as a visual aid for locating problematic data points.
 
-Lesson 6:
+Lesson 6
 Topics:
 Required Files: Python_ES_L6.ipynb
 Lecture:
