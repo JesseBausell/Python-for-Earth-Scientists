@@ -1,4 +1,4 @@
-# NASA_SARP_CODING_Lessons
-Python Tutorials written for NASA Student Airborne Research Program
+# Python-for-Earth-Scientists
+This repository consists of a series of Python lessons. Lessons emphasize Earth Science concepts, but are applicable to anybody looking to learn the Python programming language. These lessons assume no prior coding experience. Therefore, they are accessible to everybody!
 
-The following scripts are designed as tutorials for NASA SARP interns aspiring to learn coding. They are designed for people with limited or no prior experience coding in python. Lessons build off of each other sequentially.
+This repository contains the materials for seven lessons. These lessons go through basic Python concepts as they relate to Earth Science applications. They are designed to give users a baseline working knowledge of Python, which they can expand upon. Each lesson consists of the a Jupyter Notebook (Python_ES_L#.ipynb). Cells within each Jupyter Notebook contain annotated instructions explaining their use and their context. Because these lessons were created in support of the NASA Student Airborne Research Program (NASA SARP), each lesson contains a lecture video. Youtube links of the lecture videos are included in this readme document.
