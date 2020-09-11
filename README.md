@@ -9,43 +9,43 @@ Course Syllabus:
 
 Lesson 1:
 Topics:
-Notebook:
+Required Files:
 Lecture:
 Synopsis:
 
 
 Lesson 2:
 Topics:
-Notebook:
+Required Files:
 Lecture:
 Synopsis:
 
 Lesson 3:
 Topics:
-Notebook:
+Required Files:
 Lecture:
 Synopsis:
 
 Lesson 4:
 Topics:
-Notebook:
+Required Files:
 Lecture:
 Synopsis:
 
 Lesson 5:
 Topics:
-Notebook:
+Required Files:
 Lecture:
 Synopsis:
 
 Lesson 6:
 Topics:
-Notebook:
+Required Files:
 Lecture:
 Synopsis:
 
 Lesson 7:
 Topics:
-Notebook:
+Required Files:
 Lecture:
 Synopsis:
