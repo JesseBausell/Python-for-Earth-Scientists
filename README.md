@@ -7,45 +7,45 @@ Please know that Python is an expansive programming language with near infinite 
 
 Course Syllabus:
 
-Lesson 1:
+Lesson 1: 
 Topics:
-Required Files:
+Required Files: Python_ES_L1.ipynb
 Lecture:
 Synopsis:
 
 
 Lesson 2:
 Topics:
-Required Files:
+Required Files: Python_ES_L2.ipynb
 Lecture:
 Synopsis:
 
 Lesson 3:
 Topics:
-Required Files:
+Required Files: Python_ES_L3.ipynb
 Lecture:
 Synopsis:
 
 Lesson 4:
 Topics:
-Required Files:
+Required Files: Python_ES_L4.ipynb
 Lecture:
 Synopsis:
 
 Lesson 5:
 Topics:
-Required Files:
+Required Files: Python_ES_L5.ipynb
 Lecture:
 Synopsis:
 
 Lesson 6:
 Topics:
-Required Files:
+Required Files: Python_ES_L6.ipynb
 Lecture:
 Synopsis:
 
 Lesson 7:
 Topics:
-Required Files:
+Required Files: Python_ES_L7.ipynb
 Lecture:
 Synopsis:
