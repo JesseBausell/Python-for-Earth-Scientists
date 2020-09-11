@@ -26,10 +26,10 @@ Lecture:
 Synopsis: Lesson 3 explains how data can be written into an ascii file for storage outside of the Python Environment (e.g. Jupyter Notebooks). Lesson 3 also introduces students to the concept of user-defined functions. These functions are written by users and can be called upon in multiple portions of the code. They are advantageous in that they obviate the need to write the same sequence of coding lines multiple times throughout a script.
 
 Lesson 4:
-Topics:
+Topics: reading ascii files into dictionaries
 Required Files: Python_ES_L4.ipynb
 Lecture:
-Synopsis:
+Synopsis: Lesson 4 goes over techniques for reading ascii files into the Python Environment (as dictionaries). The lesson gives advice on creating user-defined functions that can be used repeatedly, hence obviating the need for repeating code.
 
 Lesson 5:
 Topics:
