@@ -39,12 +39,12 @@ Synopsis: Now that students understand how to read an ascii file, as well as how
 
 Lesson 6
 Topics: Basic statistics
-Required Files: Python_ES_L6.ipynb
+Required Files: Python_ES_L6.ipynb, WHARFDATA_2017.csv
 Lecture:
 Synopsis: Lesson 6 demonstrates how to perform basic data analysis: least-squares, linear regression, as well as calculating mean, median, and standard deviation.
 
 Lesson 7
-Topics:
-Required Files: Python_ES_L7.ipynb
+Topics: Debugging your code
+Required Files: Python_ES_L7.ipynb, WHARFDATA_2017.csv
 Lecture:
-Synopsis:
+Synopsis: Lesson 7 lays forth some techniques for locating and correcting coding errors. Students are prompted to run several scripts that contain errors and to then identify and correct these errors. The final assignment is a user-defined function that is riddled with programming errors. Students will run the code and fix these errors one by one. Keep in mind however, that not all coding errors prevent a script from running. In fact, the most dangerous kind of coding errors are those that do not prevent the code from running, but instead change the nature of the program without the user realizing it! 
