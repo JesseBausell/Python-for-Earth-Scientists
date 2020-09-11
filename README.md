@@ -47,4 +47,7 @@ Lesson 7
 Topics: Debugging your code
 Required Files: Python_ES_L7.ipynb, WHARFDATA_2017.csv
 Lecture:
+    Part 1: https://www.youtube.com/watch?v=dlFF1F2lbQU&feature=youtu.be
+    Part 2: https://www.youtube.com/watch?v=FDleqRH_my4&feature=youtu.be
+    Part 3: https://www.youtube.com/watch?v=cTbGYHLgiwo&feature=youtu.be
 Synopsis: Lesson 7 lays forth some techniques for locating and correcting coding errors. Students are prompted to run several scripts that contain errors and to then identify and correct these errors. The final assignment is a user-defined function that is riddled with programming errors. Students will run the code and fix these errors one by one. Keep in mind however, that not all coding errors prevent a script from running. In fact, the most dangerous kind of coding errors are those that do not prevent the code from running, but instead change the nature of the program without the user realizing it! 
