@@ -1,7 +1,7 @@
 # Python-for-Earth-Scientists
 This repository consists of a series of Python lessons. Lessons emphasize Earth Science concepts, but are applicable to anybody looking to learn the Python programming language. These lessons assume no prior coding experience. Therefore, they are accessible to everybody!
 
-This repository contains the materials for seven lessons. These lessons go through basic Python concepts as they relate to Earth Science applications. They are designed to give users a baseline working knowledge of Python, which they can expand upon. Each lesson consists of the a Jupyter Notebook (Python_ES_L#.ipynb). Cells within each Jupyter Notebook contain annotated instructions explaining their use and their context. Because these lessons were created in support of the NASA Student Airborne Research Program (NASA SARP), each lesson contains a lecture video. Youtube links of the lecture videos are included in this readme document. In addition to lessons, this repository includes all supporting files that are necessary to run lesson plans. Supporting files include: demo1.txt, demo2.txt, WHARFDATA_2017.csv, and WU_2017.zip.
+This repository contains the materials for seven lessons. These lessons go through basic Python concepts as they relate to Earth Science applications. They are designed to give users a baseline working knowledge of Python, which they can expand upon. Each lesson consists of the a Jupyter Notebook (Python_ES_L#.ipynb). Cells within each Jupyter Notebook contain annotated instructions explaining their use and their context. Because these lessons were created in support of the NASA Student Airborne Research Program (NASA SARP), each lesson contains a lecture video. Youtube links of the lecture videos are included in this readme document. However, please keep in mind that because lecture videos may not overlap completely with Python Notebooks and notebook file names are named differently in youtube lectures than they are in this repository. This also repository includes all supporting files that are necessary to run lesson plans. Supporting files include: demo1.txt, demo2.txt, WHARFDATA_2017.csv, and WU_2017.zip.
 
 Please know that Python is an expansive programming language with near infinite applications. Thus, these lessons are by no means an exhaustive.
 
@@ -38,12 +38,12 @@ Lecture:
 Synopsis: Now that students understand how to read an ascii file, as well as how to write a for-loop, this lesson comblines those skills. Students will write a for-loop that will read 366 ascii files into a dictionary (one file at a time). Students will then examine techniques for eliminating erroneous data points; they will also be introduced to plotting, which can be used as a visual aid for locating problematic data points.
 
 Lesson 6
-Topics:
+Topics: Basic statistics
 Required Files: Python_ES_L6.ipynb
 Lecture:
-Synopsis:
+Synopsis: Lesson 6 demonstrates how to perform basic data analysis: least-squares, linear regression, as well as calculating mean, median, and standard deviation.
 
-Lesson 7:
+Lesson 7
 Topics:
 Required Files: Python_ES_L7.ipynb
 Lecture:
