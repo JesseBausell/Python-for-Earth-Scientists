@@ -8,11 +8,10 @@ Please know that Python is an expansive programming language with near infinite 
 Course Syllabus:
 
 Lesson 1: 
-Topics:
+Topics: types of variables, basic mathematical opperations, introduction to for-loops
 Required Files: Python_ES_L1.ipynb
 Lecture:
-Synopsis:
-
+Synopsis: Lesson 1 assumes no prior experience coding in ANY PROGRAMING LANGUAGE. Here we focus on types of python variables, including variables designed for data strorage. We also examine how to format code correctly, as well as how to create a basic for-loop.
 
 Lesson 2:
 Topics:
